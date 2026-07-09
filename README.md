@@ -6,7 +6,7 @@ This Power BI dashboard analyzes customer churn using the IBM Telco Customer Chu
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot%202026-07-09%20104137.png)
+![Dashboard](dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 
